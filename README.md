@@ -41,7 +41,7 @@ You can use Rstudio with R programming to chart whatever style or scale as you w
 ## License
 
 
-Cheetah_Cpuminer is released under the terms of the MIT license. See `COPYING` for more
+shoreline_lt_chart is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 
