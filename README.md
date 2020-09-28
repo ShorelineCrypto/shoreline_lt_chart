@@ -12,7 +12,7 @@ method works if below conditions are met:
  - Rstudio:  https://rstudio.com/products/rstudio/download/#download
  - R latest version needed for Rstudio: Windows: https://cran.r-project.org/bin/windows/base/ Mac: https://cran.r-project.org/bin/macosx/
 
-The below codes and steps were completed in Windows 10 with Rstudio v1.3.1093 and R v5.0.2.
+The below codes and steps were completed in Windows 10 with Rstudio v1.3.1093 and R v4.0.2.
 
 ## Download raw data from exchange back-end server
 Run below shell script in the same folder as the Opentrade sqlite3 database file "sqlite.db" at, which is at "opentrade/server/database" :
