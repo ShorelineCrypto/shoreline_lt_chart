@@ -6,7 +6,7 @@ library(plotly)
 library(processx)
 
 
-setwd("C:/Users/hongl/Documents/shoreline_lt_chart")
+setwd("C:/Users/hongl/shares/shoreline_lt_chart")
 
 neng_rawdata <- read.csv(gzfile("NENG_history_trade.csv.gz"), header = FALSE, sep = ",")
 names(neng_rawdata) <- c("coin","volume","timestamp","price")
