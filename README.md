@@ -4,7 +4,7 @@
 ## What is shoreline_lt_chart?
 
 This is sets of method and R scripts to plot any cryptocurrency cancelstick price chart over long period of time (2Y chart for NENG). Here we mainly showcase two methods
-of plotting NewEnglandcoin (NENG) NENG/DOGE price since Sept. 2018 using raw data from ShorelineCrypto exchange history database records. In general, this tool set and
+of plotting Nengcoin (NENG) NENG/DOGE price since Sept. 2018 using raw data from ShorelineCrypto exchange history database records. In general, this tool set and
 method works if below conditions are met:
 
  - Data source: trade history raw data from sqlite3 database of OpenTrade exchange software in csv format. 
