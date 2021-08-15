@@ -38,6 +38,9 @@ The candlestick charts from "work.R" in log scale looks better than Google chart
 
 You can use Rstudio with R programming to chart whatever style or scale as you want on the NENG raw data provided here.
 
+## Cheetahcoin (CHTA) chart added
+CHTA half year candlestick chart was added in 8/15/2021 release with similar method as NENG chart.
+
 ## License
 
 
